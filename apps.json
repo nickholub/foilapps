@@ -117,7 +117,7 @@
       "url": "https://marinepath.app/",
       "sport": ["wingfoil", "downwindfoil"],
       "platforms": ["ios", "apple watch"],
-      "description": "Record foil sessions, follow a saved track and mark landing spots on a marine map."
+      "description": "Explore marine maps on Apple Watch or iPhone. Record foil sessions with GPS, follow saved routes and save waypoints for downwind exits. See channel markers and charted depths where NOAA provides coverage in U.S. waters."
     }
   ]
 } 

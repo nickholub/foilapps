@@ -111,6 +111,13 @@
       "sport": ["wingfoil"],
       "platforms": ["web"],
       "description": "Free wind forecast for nearly 900 wingfoil, kitesurf and windsurf spots in Spain, Portugal, France and Italy, checked every day against real weather stations, with the results published."
+    },
+    {
+      "name": "MarinePath",
+      "url": "https://marinepath.app/",
+      "sport": ["wingfoil", "downwindfoil"],
+      "platforms": ["ios", "apple watch"],
+      "description": "Record foil sessions, follow a saved track and mark landing spots on a marine map."
     }
   ]
 } 
